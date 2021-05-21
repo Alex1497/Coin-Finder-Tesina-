@@ -1,0 +1,9 @@
+"coinfinder"
+{
+
+	"base"	"base"
+	"title"	"Coin Finder"
+	"maps"	"^gm_"
+	"menusystem"	"1"
+
+}

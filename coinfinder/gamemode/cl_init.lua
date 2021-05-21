@@ -1,0 +1,6 @@
+include("shared.lua")
+include("player/cl_playerinfo.lua")
+include("player/cl_playerPowers.lua")
+include("win_panel/cl_win_panel.lua")
+include("checklist/checklist.lua")
+include("buttons_menu/menuButt.lua")
